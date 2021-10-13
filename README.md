@@ -1,6 +1,11 @@
 ### Hi 👋 I'm  ROHIT GUPTA from Delhi,India
 
-![](https://komarev.com/ghpvc/?username=RohitGupta8&style=plastic&color=pink&label=My+Profile+Views)
+🎇✨✨Currently I'm learning Software Development at BridgeLabz.
+
+I'm liberal Libra⚖️, Attractive🧲,Cool🆒😎,Foodie🍕🍒🍌🍩,Dancer🕺🕺⚡,Cook👨‍🍳🍽️
+
+
+![](https://komarev.com/ghpvc/?username=RohitGupta8&style=plastic&color=ff69b4&label=My+Profile+Views)
 
 
 
