@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical)
+
+##  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical)
