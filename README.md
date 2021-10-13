@@ -1,9 +1,9 @@
-### Hii 👋, I'm  ROHIT GUPTA from Delhi,India.
-##  Software Engineer
+### Hii 👋, I'm  ROHIT GUPTA from Delhi , India.
+##  _Software Engineer_
 
 
-🎇✨✨Currently I'm learning Software Development at BridgeLabz.
-
+- 🌱🎇✨✨Currently I'm learning Software Development at BridgeLabz.
+- About Me💬  : -
  I'm liberal Libra⚖️, 
  Attractive🧲,
  Cool🆒😎,
@@ -11,18 +11,15 @@
  Dancer🕺🕺⚡,
  Cook👨‍🍳🍽️
 
-Connect with me :-
+ 📫 Connect with me :-
 
  
 
 
 
-##  ![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
+##  
 
-
-
-
-
+ ![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
 
 <!--
 **RohitGupta8/RohitGupta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
