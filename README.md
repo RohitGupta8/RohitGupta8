@@ -4,7 +4,12 @@ Software Engineer
 
 🎇✨✨Currently I'm learning Software Development at BridgeLabz.
 
- I'm liberal Libra⚖️, Attractive🧲,Cool🆒😎,Foodie🍕🍒🍌🍩,Dancer🕺🕺⚡,Cook👨‍🍳🍽️
+ I'm liberal Libra⚖️, 
+ Attractive🧲,
+ Cool🆒😎,
+ Foodie🍕🍒🍌🍩,
+ Dancer🕺🕺⚡,
+ Cook👨‍🍳🍽️
 
 Connect with me :-
 
