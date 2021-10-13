@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm  ROHIT GUPTA from Delhi,India
+
+![](https://komarev.com/ghpvc/?username=RohitGupta8&style=plastic&color=pink&label=My+Profile+Views)
+
+
 
 <!--
 **RohitGupta8/RohitGupta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
