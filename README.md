@@ -14,7 +14,7 @@ Cook👨‍🍳🍽️
 
  📫 Connect with me :-
 
-[![facebook](https://user-images.githubusercontent.com/67726799/137108560-29360629-ccfc-4720-9e4a-4f888e3161fd.png)](https://www.facebook.com/ROHITGUPTA8)   [![iiiinstagram](https://user-images.githubusercontent.com/67726799/137110339-c3bacb8c-4715-4251-99de-2d3de60cf243.png)](https://www.instagram.com/rohhitguptaa)  [![github](https://user-images.githubusercontent.com/67726799/137109345-9e8f4a74-e57f-48bf-b2e9-2c76e6ca2f32.png)](https://github.com/RohitGupta8)  [![linkedin](https://user-images.githubusercontent.com/67726799/137109747-f817d485-a469-409e-9fd2-8eec97222728.png)](https://www.linkedin.com/in/rohitgupta08)
+[![facebook](https://user-images.githubusercontent.com/67726799/137108560-29360629-ccfc-4720-9e4a-4f888e3161fd.png)](https://www.facebook.com/ROHITGUPTA8)&nbsp;&nbsp;&nbsp;   [![iiiinstagram](https://user-images.githubusercontent.com/67726799/137110339-c3bacb8c-4715-4251-99de-2d3de60cf243.png)](https://www.instagram.com/rohhitguptaa)&nbsp;&nbsp;&nbsp;  [![github](https://user-images.githubusercontent.com/67726799/137109345-9e8f4a74-e57f-48bf-b2e9-2c76e6ca2f32.png)](https://github.com/RohitGupta8) &nbsp;&nbsp;&nbsp; [![linkedin](https://user-images.githubusercontent.com/67726799/137109747-f817d485-a469-409e-9fd2-8eec97222728.png)](https://www.linkedin.com/in/rohitgupta08)
 
 ##  
 
