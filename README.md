@@ -14,9 +14,21 @@ Cook👨‍🍳🍽️
 
  📫 Connect with me :-
 
-[![icons8-facebook-48](https://user-images.githubusercontent.com/67726799/137103062-04caefe0-1c15-4925-8793-4510d295a2d7.png)](https://www.facebook.com/ROHITGUPTA8) [![icons8-instagram-48](https://user-images.githubusercontent.com/67726799/137103403-ee52ed04-e84b-4cbc-9212-b971df32c89b.png)](https://www.instagram.com/rohhitguptaa) [![icons8-github-48](https://user-images.githubusercontent.com/67726799/137104044-f1b5b631-c6cc-4419-ab9b-e8a76b7dcbd2.png)](https://github.com/RohitGupta8)[![icons8-linkedin-48](https://user-images.githubusercontent.com/67726799/137104615-efaf9c9e-3e97-4f8e-a031-82c7a13e6611.png)](https://www.linkedin.com/in/rohitgupta08)
+[![facebook](https://user-images.githubusercontent.com/67726799/137108560-29360629-ccfc-4720-9e4a-4f888e3161fd.png)](https://www.facebook.com/ROHITGUPTA8)   [![iiiinstagram](https://user-images.githubusercontent.com/67726799/137110339-c3bacb8c-4715-4251-99de-2d3de60cf243.png)](https://www.instagram.com/rohhitguptaa)  [![github](https://user-images.githubusercontent.com/67726799/137109345-9e8f4a74-e57f-48bf-b2e9-2c76e6ca2f32.png)](https://github.com/RohitGupta8)  [![linkedin](https://user-images.githubusercontent.com/67726799/137109747-f817d485-a469-409e-9fd2-8eec97222728.png)](https://www.linkedin.com/in/rohitgupta08)
 
 ##  
+
+
+
+
+
+
+
+
+
+
+
+
 
  ![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
 
