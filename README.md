@@ -17,8 +17,7 @@ Connect with me :-
 
 
 
-##
-
+##![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
 
 
 
@@ -40,4 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical), ![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
+##  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical), 
