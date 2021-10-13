@@ -1,10 +1,9 @@
 ### Hii 👋, I'm  ROHIT GUPTA from Delhi , India.
 ##  ***__Software Engineer__***
 
-
+About Me💬  : -
 - 🌱🎇✨✨Currently I'm learning Software Development at BridgeLabz.
-- About Me💬  : -
- I'm liberal Libra⚖️, 
+- I'm liberal Libra⚖️, 
  Attractive🧲,
  Cool🆒😎,
  Foodie🍕🍒🍌🍩,
