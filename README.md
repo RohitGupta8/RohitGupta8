@@ -4,10 +4,9 @@ Software Engineer
 
 🎇✨✨Currently I'm learning Software Development at BridgeLabz.
 
-I'm liberal Libra⚖️, Attractive🧲,Cool🆒😎,Foodie🍕🍒🍌🍩,Dancer🕺🕺⚡,Cook👨‍🍳🍽️
+ I'm liberal Libra⚖️, Attractive🧲,Cool🆒😎,Foodie🍕🍒🍌🍩,Dancer🕺🕺⚡,Cook👨‍🍳🍽️
 
-
-![](https://komarev.com/ghpvc/?username=RohitGupta8&style=plastic&color=ff69b4&label=My+Profile+Views)
+Connect with me :-
 
 
 
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RohitGupta8&repo=github-readme-stats)](https://github.com/RohitGupta8/github-readme-stats)
