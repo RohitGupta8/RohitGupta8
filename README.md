@@ -1,4 +1,5 @@
-### Hi 👋 I'm  ROHIT GUPTA from Delhi,India
+### Hi 👋 I'm  ROHIT GUPTA from Delhi,India.
+Software Engineer
 
 🎇✨✨Currently I'm learning Software Development at BridgeLabz.
 
