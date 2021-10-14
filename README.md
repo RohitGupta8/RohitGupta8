@@ -15,7 +15,9 @@ Cook👨‍🍳🍽️
 ### ⚙️Technologies & Tools :- 
 
 
-![html-5](https://user-images.githubusercontent.com/67726799/137116706-c85325b1-a624-4fec-b6ce-c0913b9a4d63.png)&nbsp;&nbsp;&nbsp; ![css](https://user-images.githubusercontent.com/67726799/137116788-3d822bb1-f3d3-4f6c-b2b8-9606bf296717.png)&nbsp;&nbsp;&nbsp; ![javascript](https://user-images.githubusercontent.com/67726799/137116863-1685d307-807e-4414-92e2-af82a44bee60.png)&nbsp;&nbsp;&nbsp; ![react](https://user-images.githubusercontent.com/67726799/137116955-44399fa7-f7ca-4a1f-bd68-3cd6cac492a2.png)&nbsp;&nbsp;&nbsp; ![javascript (1)](https://user-images.githubusercontent.com/67726799/137116930-24463b40-ef8b-4836-bf3f-31fc409067dc.png)&nbsp;&nbsp;&nbsp; ![visual-studio](https://user-images.githubusercontent.com/67726799/137117004-37b1a573-a8c8-4ca6-9847-6555978c8efe.png)
+![html-5](https://user-images.githubusercontent.com/67726799/137116706-c85325b1-a624-4fec-b6ce-c0913b9a4d63.png)&nbsp;&nbsp;&nbsp; ![css](https://user-images.githubusercontent.com/67726799/137116788-3d822bb1-f3d3-4f6c-b2b8-9606bf296717.png)&nbsp;&nbsp;&nbsp; ![javascript](https://user-images.githubusercontent.com/67726799/137116863-1685d307-807e-4414-92e2-af82a44bee60.png)&nbsp;&nbsp;&nbsp; ![react](https://user-images.githubusercontent.com/67726799/137116955-44399fa7-f7ca-4a1f-bd68-3cd6cac492a2.png)&nbsp;&nbsp;&nbsp; ![javascript (1)](https://user-images.githubusercontent.com/67726799/137116930-24463b40-ef8b-4836-bf3f-31fc409067dc.png)&nbsp;&nbsp;&nbsp; ![visual-studio](https://user-images.githubusercontent.com/67726799/137117004-37b1a573-a8c8-4ca6-9847-6555978c8efe.png)&nbsp;&nbsp;&nbsp;
+![ij](https://user-images.githubusercontent.com/67726799/137284759-cc36a0cb-1358-4586-b168-34d427666fd6.png)&nbsp;&nbsp;&nbsp;
+![mysql](https://user-images.githubusercontent.com/67726799/137285432-f2f3bbaa-3eb5-4862-8d31-3dee73a69b8d.png)
 
 ##
 
