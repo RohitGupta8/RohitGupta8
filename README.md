@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm ROHIT GUPTA from Delhi,India</h1><h3 align="center">Software Developer</h3>
+<h1 align="center">Hii 👋, I'm ROHIT GUPTA from Delhi,India</h1>
+<h3 align="center">Software Developer</h3>
+
+##
 
 ### About Me💬
-- 🌱🎇✨✨Currently I'm learning Software Development at BridgeLabz.
+- 🌱🎇✨✨Currently I'm learning Full Stack with Node JS.
 - I'm liberal Libra⚖️, 
  Attractive🧲,
  Cool🆒😎,
