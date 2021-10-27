@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm ROHIT GUPTA from Delhi,India</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center"><i>Software Developer</i></h3>
 
-##
+
 
 ### About Me💬
 - 🌱🎇✨✨Currently I'm learning Full Stack with Node JS.
@@ -28,19 +28,8 @@ Cook👨‍🍳🍽️
 ##  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
 
-<!--
-**RohitGupta8/RohitGupta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical), 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitgupta8&show_icons=true&locale=en&layout=compact" alt="rohitgupta8" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-##  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical), 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitgupta8&" alt="rohitgupta8" /></p>
