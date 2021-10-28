@@ -21,8 +21,8 @@ Cook👨‍🍳🍽️
 
 ##
 ### Certificates
-[GOOGLE Certificate in Fundamental of Digital Marketing](https://github.com/RohitGupta8/My-Certificates/blob/master/googlecertificate.pdf)
-[HTML,CSS,JAVASCRIPT FROM EDUCBA](https://github.com/RohitGupta8/My-Certificates/blob/master/CERTIFICATE%20PHP%2CHTML%2CCSS3.pdf)
+[GOOGLE Certificate in Fundamental of Digital Marketing](https://github.com/RohitGupta8/My-Certificates/blob/master/googlecertificate.pdf)<br/>
+[HTML,CSS,JAVASCRIPT FROM EDUCBA](https://github.com/RohitGupta8/My-Certificates/blob/master/CERTIFICATE%20PHP%2CHTML%2CCSS3.pdf)<br/>
 [MACHINE LEARNING BASIC](https://github.com/RohitGupta8/My-Certificates/blob/master/Cognitive%20Class%20ML0101ENv3%20Certificate%20_%20Cognitive%20Class.pdf)
 
 ##
