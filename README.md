@@ -21,11 +21,10 @@ Cook👨‍🍳🍽️
 
 ##
 ### Certificates
-<a href="https://github.com/RohitGupta8/My-Certificates/blob/master/googlecertificate.pdf" target="_blank"><h4>GOOGLE Certificate in Fundamental of Digital Marketing</h4></a>
-##
-<a href="https://github.com/RohitGupta8/My-Certificates/blob/master/CERTIFICATE%20PHP%2CHTML%2CCSS3.pdf" target="_blank"><h4>HTML,CSS,JAVASCRIPT FROM EDUCBA</h4></a>
-##
-<a href="https://github.com/RohitGupta8/My-Certificates/blob/master/Cognitive%20Class%20ML0101ENv3%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank"><h4>MACHINE LEARNING BASIC</h4></a>
+[GOOGLE Certificate in Fundamental of Digital Marketing](https://github.com/RohitGupta8/My-Certificates/blob/master/googlecertificate.pdf)
+[HTML,CSS,JAVASCRIPT FROM EDUCBA](https://github.com/RohitGupta8/My-Certificates/blob/master/CERTIFICATE%20PHP%2CHTML%2CCSS3.pdf)
+[MACHINE LEARNING BASIC](https://github.com/RohitGupta8/My-Certificates/blob/master/Cognitive%20Class%20ML0101ENv3%20Certificate%20_%20Cognitive%20Class.pdf)
+
 ##
 
  ### 📫 Connect with me :- 
