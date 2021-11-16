@@ -1,5 +1,6 @@
-
-# Hii 👋, I'm ROHIT GUPTA from Delhi,India <br/>*Software Developer*
+![](https://scontent.fdel3-2.fna.fbcdn.net/v/t1.6435-9/136468666_3822394944477573_5575820649960510203_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=CwREQfNGiisAX-yAAKu&_nc_ht=scontent.fdel3-2.fna&oh=e6dea2cb438e38a05c463e0f02cbe575&oe=61B70DE5)
+### Hii 👋, I'm ROHIT GUPTA from Delhi,India 
+#### *Software Developer*
 
 
 
