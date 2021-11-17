@@ -52,8 +52,3 @@ Cook👨‍🍳🍽️
 ### My Language Card
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitgupta8&show_icons=true&locale=en&layout=compact" alt="rohitgupta8" />
 
-##
-### My 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohitgupta8)](https://github.com/anuraghazra/github-readme-stats)
-
