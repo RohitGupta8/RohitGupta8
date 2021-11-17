@@ -37,10 +37,23 @@ Cook👨‍🍳🍽️
 [![facebook](https://user-images.githubusercontent.com/67726799/137108560-29360629-ccfc-4720-9e4a-4f888e3161fd.png)](https://www.facebook.com/ROHITGUPTA8)&nbsp;&nbsp;&nbsp;   [![iiiinstagram](https://user-images.githubusercontent.com/67726799/137110339-c3bacb8c-4715-4251-99de-2d3de60cf243.png)](https://www.instagram.com/rohhitguptaa)&nbsp;&nbsp;&nbsp;  [![github](https://user-images.githubusercontent.com/67726799/137109345-9e8f4a74-e57f-48bf-b2e9-2c76e6ca2f32.png)](https://github.com/RohitGupta8) &nbsp;&nbsp;&nbsp; [![linkedin](https://user-images.githubusercontent.com/67726799/137109747-f817d485-a469-409e-9fd2-8eec97222728.png)](https://www.linkedin.com/in/rohitgupta08)
 
 ##  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Rohit's+Visitors&style=flat&color=brightgreen)
+### My Profile Visitors 
+![](https://komarev.com/ghpvc/?username=RohitGupta8&label=Visitors+No.&style=flat&color=brightgreen)
 
+##
+### My Github Stats
 
  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitGupta8&show_icons=true&theme=radical) 
- 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitgupta8&" alt="rohitgupta8" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitgupta8&show_icons=true&locale=en&layout=compact" alt="rohitgupta8" />
+ ##
+ ### My Streak Stats
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitgupta8&" alt="rohitgupta8" /> 
+
+##
+### My Language Card
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitgupta8&show_icons=true&locale=en&layout=compact" alt="rohitgupta8" />
+
+##
+### My 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohitgupta8)](https://github.com/anuraghazra/github-readme-stats)
 
