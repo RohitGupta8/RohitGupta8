@@ -1,4 +1,4 @@
-![](https://scontent.fdel3-2.fna.fbcdn.net/v/t1.6435-9/136468666_3822394944477573_5575820649960510203_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=CwREQfNGiisAX-yAAKu&_nc_ht=scontent.fdel3-2.fna&oh=e6dea2cb438e38a05c463e0f02cbe575&oe=61B70DE5)
+
 ### Hii <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm ROHIT GUPTA from Delhi,India 
 #### *Software Developer*
 
