@@ -1,6 +1,6 @@
 
 # Hii <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm *`ROHIT GUPTA`* from Delhi,India 
-### *`Software Developer`*
+### *`Senior Software Developer @ Naviga Inc since March 2022`*
 
 
 
@@ -9,7 +9,7 @@
 
 
 > ### 💬About Me💬
->* 🎇✨✨ I'm  Full Stack Mean Developer  ✨✨✨✨
+>* 🎇✨✨ I'm  Full Stack Mern Developer  ✨✨✨✨
 >*  I'm `liberal Libra⚖️` 
 ` Attractive🧲`
 ` Cool🆒😎`
